@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{962107a5-378e-4504-b52e-c4b9b7d97d96}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Murph-is-DED/FmodBuilds</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{baf05bcc-f539-4294-8945-0806fe165aa6}</destination>
 		</relationship>

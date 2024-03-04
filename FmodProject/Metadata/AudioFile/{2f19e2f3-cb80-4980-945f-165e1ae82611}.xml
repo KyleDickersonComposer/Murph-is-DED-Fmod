@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2f19e2f3-cb80-4980-945f-165e1ae82611}">
+		<property name="assetPath">
+			<value>Mid_Room_Drone.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>35.520000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce6b629a-2d54-4c6c-a6d6-77b32ee8108c}</destination>
+		</relationship>
+	</object>
+</objects>
