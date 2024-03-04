@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c0244032-2432-40db-8af1-0056c97f3abc}">
+		<property name="assetPath">
+			<value>AmbientPlace_Murph_Music.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>42.616848072562355</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce6b629a-2d54-4c6c-a6d6-77b32ee8108c}</destination>
+		</relationship>
+	</object>
+</objects>
