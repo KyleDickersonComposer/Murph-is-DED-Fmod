@@ -13,14 +13,10 @@
 	</object>
 	<object class="GameParameter" id="{b607ba80-085e-4fec-8bd9-17bcf3c839cd}">
 		<property name="parameterType">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="maximum">
 			<value>2</value>
-		</property>
-		<property name="enumerationLabels">
-			<value>RhythmicPulse</value>
-			<value>WeakBeat</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
